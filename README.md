@@ -13,5 +13,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # [0.9.01] - 14.08.2023
 
-First version
-- Added: First delivery to i-PRO for testing
+- Added: First delivery to Dacha-UK for testing
