@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Added: send monitored tabs to Event Server
 - Added: right-click menu on a carousel
 - Fixed: refreshing the list of sites related to the text in the search box
+- Changed: head count is used for low attendance instead of percentage of capacity
   
 # [0.9.02] - 17.08.2023
 
