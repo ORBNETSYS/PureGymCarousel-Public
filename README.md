@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [0.9.03] - 24.08.2023
+- Added: flashing the non-visualized tabs
+- Added: send monitored tabs to Event Server
+- Added: right-click menu on a carousel
+- Fixed: refreshing the list of sites related to the text in the search box
+  
 # [0.9.02] - 17.08.2023
 
 - Changed: tabs (size + color)
