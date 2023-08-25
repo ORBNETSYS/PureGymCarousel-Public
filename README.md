@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [0.9.04] - 25.08.2023
+- Added: Extra logs to debug connection issue over VPN
+- Fixed: Associated cameras would be lost if the user does not save before a refresh
+
 # [0.9.03] - 24.08.2023
 - Added: flashing the non-visualized tabs
 - Added: send monitored tabs to Event Server
