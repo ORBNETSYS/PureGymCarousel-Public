@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [0.9.05] - 30.08.2023
+- Added: Un-force monitoring
+- Added: Message box to prompt to save
+- Added: Search bar (textbox and button) and Show all button in Edit Associated Cameras dialog
+- Added: Check and match button (goes through all the Gym's line by line and check to see if the is a camera group that contains the Gym name and show a list of which gyms did not get associated, and also if there was more than one candidate). If there is only one group that matches, will be associated to the gym.
+- Fixed: Forced monitoring
+- Fixed: Send monitored tabs to Event Server
+- Fixed: Flashing the non-visualized tabs
+- Fixed: Popup current camera and all cameras
+
 # [0.9.04] - 25.08.2023
 - Added: Extra logs to debug connection issue over VPN
 - Fixed: Associated cameras would be lost if the user does not save before a refresh
