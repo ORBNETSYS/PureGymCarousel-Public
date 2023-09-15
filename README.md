@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [0.9.06] - 15.09.2023
+- Added: Filters by Status
+- Added: Total Forced monitoring label
+- Added: Separate tabs for sites in Forced monitoring
+- Added: Error text if there is a problem with the Event Server
+- Fixed: Auto-scrolling at click on a row
+- Fixed: Some issues related to remove tabs
+- Changed: The Site info part, from Smart Client
+- Changed: The visual part of the table header (Bold titles and a different colour)
+
 # [0.9.05] - 30.08.2023
 - Added: Un-force monitoring
 - Added: Message box to prompt to save
