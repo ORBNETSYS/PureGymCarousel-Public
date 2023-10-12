@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [0.9.07] - 12.10.2023
+- Added: Refresh cameras button
+- Added: Export data button
+- Fixed: Very laggy save process
+
 # [0.9.06] - 15.09.2023
 - Added: Filters by Status
 - Added: Total Forced monitoring label
